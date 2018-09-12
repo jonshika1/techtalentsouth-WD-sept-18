@@ -7,6 +7,10 @@
 - For the "homepage" file call it `index.html`
 At the end of your filename, include the file name example  `file.html` or `file.css`
 
+##HTML tags
+```HTML
+<tag property="value" another-property="value"
+</tag>
 
 ## Head
 - The head tag is for information that the browser needs to help Google Search and Social Media Share previews
@@ -71,6 +75,13 @@ At the end of your filename, include the file name example  `file.html` or `file
 </ol>
 
 ```
+## adding image
+- add image
+- px vs %
+- static vs dynamic
+``
+## adding link
+-added instagram link
 
 ```HTML
 <h1>Title</h1>
